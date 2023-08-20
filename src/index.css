@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  button{
+    @apply border px-2 py-1 text-white rounded-full drop-shadow-lg
+  }
+  input{
+    @apply border-black border rounded-md py-1 pl-2
+  }
+  span{
+    @apply text-red-500
+  }
+}

@@ -29,10 +29,10 @@ const Footer = () => {
 <h1>contact</h1>
 <li>phone no : 2541684522</li>
 <li>email : <span className="lowercase font-semibold underline">travoexplore@gmail.com</span></li>
-<li>location : dholakpur,indumatis room</li>
+<li>location : your address,xyz</li>
 </ul>
       </div>
-      <p className="text-center pt-2">All rights are reserved under hts media</p>
+      <p className="text-center pt-2">Ut pariatur dolore anim cupidatat.</p>
     </div>
   )
 }

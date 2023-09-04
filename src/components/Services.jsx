@@ -13,18 +13,18 @@ const Services = () => {
       <div className='flex flex-col md:flex-row items-center justify-between text-center mx-6 capitalize'>
       <div className='px-2 cursor-pointer py-2'>
       <MdOutlineLocationOn size={40} color='#0EB1D2' className='mx-auto'/>
-      <p className='text-lg font-bold '>location manager</p>
-      <p className='font-semibold'>we want you to be rome without worries thats why we give a personal manger to you</p>
+      <p className='text-lg font-semibold mb-2 '>location manager</p>
+      <p className='text-start'>we want you to be rome without worries thats why we give a personal manger to you</p>
       </div>
       <div className='px-2 cursor-pointer py-2'>
       <BsPerson size={40} color='#0EB1D2' className='mx-auto'/>
-      <p  className='text-lg font-bold'>private guide</p>
-      <p className='font-semibold'>we want you to be rome without worries thats why we give a personal manger to you</p>
+      <p className='text-lg mb-2 font-semibold'>private guide</p>
+      <p className='text-start'>we want you to be rome without worries thats why we give a personal manger to you</p>
       </div>
       <div className='px-2 cursor-pointer py-2'>
       <PiMountains size={40} color='#0EB1D2' className='mx-auto'/>
-      <p  className='text-lg font-bold'>Travel management</p>
-      <p className='font-semibold'>we want you to be rome without worries thats why we give a personal manger to you</p>
+      <p  className='text-lg mb-2 font-semibold'>Travel management</p>
+      <p className='text-start'>we want you to be rome without worries thats why we give a personal manger to you</p>
       </div>
       </div>
     </div>

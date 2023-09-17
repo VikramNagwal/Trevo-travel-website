@@ -5,6 +5,8 @@ import Footer from "../components/Footer"
 
 const About = () => {
 
+  document.title = "Trevo make travel fun"
+
   return (
     <div style={{ paddingTop: '120px' }} className="w-full h-screen bg-gray-200 flex flex-col justify-between items-center capitalize">
     <div className="max-w-[1280px] rounded-md text-center mx-auto px-6 mb-8 bg-white">
